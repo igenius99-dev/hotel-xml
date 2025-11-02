@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel Rating="excellent">
+  <Name>Alpha Inn</Name>
+  <Name>Alpha Inn Duplicate</Name>
+  <Address>
+    <Number>101</Number>
+    <Street>Main St</Street>
+    <City>Tempe</City>
+    <State>AZ</State>
+    <Zip>85281</Zip>
+    <NearestAirport>Sky Harbor</NearestAirport>
+  </Address>
+  <Hotel>
+    <Name>Beta Suites</Name>
+    <Address>
+      <Number>202</Number>
+      <Street>2nd Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+  <Hotel Rating="four.point.two">
+    <Address>
+      <Number>303</Number>
+      <Street>Third Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Delta Lodge</Name>
+    <Phone>480-000-0000</Phone>
+    <Phone>480-000-0001</Phone>
+    <Address>
+      <Number>404</Number>
+      <Street>Fourth St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85283</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+    <Phone>480-000-0002</Phone>
+  </Hotel>
+</Hotel>
