@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
   <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Habor</NearestAirport>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.2">
     <Name>Days Inn</Name>
     <Phone>424-968-8424</Phone>
     <Phone>842-923-8425</Phone>
@@ -37,20 +50,6 @@
       <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
-  <Hotel Rating="4.2">
-  <Name>Westin</Name>
-  <Phone>480-968-8885</Phone>
-  <Phone>800-937-8461</Phone>
-  <Address>
-    <Number>11</Number>
-    <Street>E 7th St</Street>
-    <City>Tempe</City>
-    <State>AZ</State>
-    <Zip>85281</Zip>
-    <NearestAirport>Sky Harbor</NearestAirport>
-  </Address>
-</Hotel>
-
   <Hotel Rating="4.5">
     <Name>AC Hotel Phoenix Tempe Downtown</Name>
     <Phone>480-642-6140</Phone>
