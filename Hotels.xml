@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
   <Hotel Rating="4.2">
-    <Name>Westin Tempe</Name>
-    <Phone>480-968-8885</Phone>
-    <Phone>800-937-8461</Phone>
+    <Name>Days Inn</Name>
+    <Phone>424-968-8424</Phone>
+    <Phone>842-923-8425</Phone>
     <Address>
-      <Number>11</Number>
-      <Street>E 7th St</Street>
+      <Number>15</Number>
+      <Street>W 10th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -14,8 +14,8 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.6">
-    <Name>Hyatt Place Tempe / Phoenix Airport</Name>
-    <Phone>480-804-9544</Phone>
+    <Name>Hyatt Place</Name>
+    <Phone>454-845-9544</Phone>
     <Address>
       <Number>1413</Number>
       <Street>W Rio Salado Pkwy</Street>
@@ -26,8 +26,8 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.4">
-    <Name>Hilton Garden Inn Phoenix Airport North</Name>
-    <Phone>602-306-2323</Phone>
+    <Name>Hilton Garden Inn Phoenix</Name>
+    <Phone>632-306-2323</Phone>
     <Address>
       <Number>3838</Number>
       <Street>E Van Buren St</Street>
@@ -122,7 +122,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.2">
-    <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
+    <Name>Embassy</Name>
     <Phone>480-897-7444</Phone>
     <Address>
       <Number>4400</Number>
@@ -134,7 +134,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.1">
-    <Name>Hampton Inn &amp; Suites Tempe</Name>
+    <Name>Hampton Inn</Name>
     <Phone>480-410-6400</Phone>
     <Address>
       <Number>1550</Number>
