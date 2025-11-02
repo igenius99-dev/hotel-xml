@@ -16,12 +16,12 @@
     </Address>
   </Hotel>
 
- 
+
   <Hotel Rating="4.6">
     <Name>Hyatt Place</Name>
     <Address>
       <Number>1413</Number>
-      <City>Tempe</City>       
+      <City>Tempe</City>      
       <Street>W Rio Salado Pkwy</Street>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -29,7 +29,8 @@
     </Address>
   </Hotel>
 
-  
+
+  <Hotel Rating="4.4">
     <Name>Hilton Garden Inn Phoenix</Name>
     <Address>
       <Number>3838</Number>
@@ -41,6 +42,5 @@
     </Address>
     <Phone>632-306-2323</Phone>
   </Hotel>
-
 
 </Hotels>
